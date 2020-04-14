@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='never' generator='JOSM'>
+  <node id='-2970306' action='modify' lat='-58.99995508423' lon='84.00008719581' />
+  <node id='-2970307' action='modify' lat='-58.99995508423' lon='84.99991279176' />
+  <node id='-2970308' action='modify' lat='-58.80004309747' lon='84.00008719581' />
+  <node id='-2970309' action='modify' lat='-58.80004309747' lon='84.99991279176' />
+  <way id='-2755586' action='modify'>
+    <nd ref='-2970307' />
+    <nd ref='-2970309' />
+    <nd ref='-2970308' />
+    <nd ref='-2970306' />
+    <nd ref='-2970307' />
+    <tag k='landuse' v='residential' />
+    <tag k='ref' v='S59.0E84_S58.8E85_Pahharahap' />
+  </way>
+</osm>
